@@ -1,0 +1,4 @@
+Respuesta:
+
+Para armar esta consulta, agrupé los datos por carrera, usé funciones de agregación para sacar los cálculos y le agregué el filtro con HAVING para que solo me devuelva las carreras que tienen más dPara armar esta consulta, agrupé los datos por carrera, usé funciones de agregación para sacar los cálculos y le agregué el filtro con HAVING para que solo me devuelva las carreras que tienen más de 2 alumnos:Respuesta:
+e 2 alumnos:

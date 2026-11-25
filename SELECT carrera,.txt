@@ -1,0 +1,7 @@
+SELECT carrera, 
+       COUNT(*) AS cantidad_estudiantes, 
+       AVG(promedio) AS promedio_general, 
+       AVG(edad) AS edad_promedio
+FROM estudiantes
+GROUP BY carrera
+HAVING COUNT(*) > 2;
